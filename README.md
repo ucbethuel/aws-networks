@@ -21,13 +21,13 @@ This repository is my own project documentation. There are **9 folders**, one pe
 |---|--------|----------|-----|
 | 1 | **Build a Virtual Private Cloud** | [.md](aws-networks-vpc/legendary-aws-networks-vpc.md) | [.pdf](aws-networks-vpc/legendary-aws-networks-vpc.pdf) |
 | 2 | **VPC Traffic Flow and Security** | [.md](aws-networks-security/legendary-aws-networks-security.md) | [.pdf](aws-networks-security/legendary-aws-networks-security.pdf) |
-| 3 | **Testing VPC Connectivity** | [.md](aws-networks-connectivity/legendary-aws-networks-connectivity.md) | [.pdf](aws-networks-connectivity/legendary-aws-networks-connectivity.pdf) |
-| 4 | **Launching VPC Resources** | [.md](aws-networks-ec2/legendary-aws-networks-ec2.md) | [.pdf](aws-networks-ec2/legendary-aws-networks-ec2.pdf) |
-| 5 | **Creating a Private Subnet** | [.md](aws-networks-private/legendary-aws-networks-private.md) | [.pdf](aws-networks-private/legendary-aws-networks-private.pdf) |
+| 3 | **Testing VPC Connectivity** | [.md](aws-networks-connectivity/legendary-aws-networks-connectivity.md) | [.pdf](aws-networks-connectivity/legendary-aws-networks-connectivity-1.pdf) |
+| 4 | **Launching VPC Resources** | [.md](aws-networks-ec2/legendary-aws-networks-ec2.md) | [.pdf](aws-networks-ec2/legendary-aws-networks-ec2-1.pdf) |
+| 5 | **Creating a Private Subnet** | [.md](aws-networks-private/legendary-aws-networks-private.md) | [.pdf](aws-networks-private/legendary-aws-networks-private-1.pdf) |
 | 6 | **VPC Peering** | [.md](aws-networks-peering/legendary-aws-networks-peering.md) | [.pdf](aws-networks-peering/legendary-aws-networks-peering.pdf) |
-| 7 | **Access S3 from a VPC** | [.md](aws-networks-s3/legendary-aws-networks-s3.md) | [.pdf](aws-networks-s3/legendary-aws-networks-s3.pdf) |
+| 7 | **Access S3 from a VPC** | [.md](aws-networks-s3/legendary-aws-networks-s3.md) | [.pdf](aws-networks-s3/legendary-aws-networks-s3-1.pdf) |
 | 8 | **VPC Endpoints** | [.md](aws-networks-endpoints/legendary-aws-networks-endpoints.md) | [.pdf](aws-networks-endpoints/legendary-aws-networks-endpoints.pdf) |
-| 9 | **VPC Monitoring with Flow Logs** | [.md](aws-networks-monitoring/legendary-aws-networks-monitoring.md) | [.pdf](aws-networks-monitoring/legendary-aws-networks-monitoring.pdf) |
+| 9 | **VPC Monitoring with Flow Logs** | [.md](aws-networks-monitoring/legendary-aws-networks-monitoring.md) | [.pdf](aws-networks-monitoring/legendary-aws-networks-monitoring-1.pdf) |
 
 Each folder contains both a **.md** and a **.pdf**—same documentation, your choice of format.
 
